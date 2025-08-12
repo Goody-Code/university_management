@@ -74,6 +74,7 @@ For Termux users:
 ```bash
 pkg update && pkg upgrade
 pkg install python
+pip install pyfiglet colorama
 ```
 
 ### Installation & Setup
