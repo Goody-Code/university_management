@@ -80,9 +80,9 @@ pkg install python
 
 1.  **Clone the repository** to your local machine:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/university_management.git
+    git clone https://github.com/Goody-Code/university_management.git
     cd university_management
-    ```    > **Note**: Replace `YOUR_USERNAME` with your actual GitHub username.
+
 
 2.  The repository already contains the complete file structure and code. The `data` directory with its `.json` files is included.
 
